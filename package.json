@@ -1,0 +1,16 @@
+{
+  "name": "favorite-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-schedule": "1.2.1",
+    "twit": "2.2.5"
+  }
+}
